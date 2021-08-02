@@ -14,7 +14,7 @@ You can run this code with Anaconda distribution of Python or in case you want t
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+For this project, I was using Stack Overflow data from 2017 to answer:
 
 1. what type of companies do students end up in after their college or professional studies?
 2. Is your college major a major factor in the type of company you get placed in?
@@ -25,12 +25,12 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 
 There is 1 notebook available here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-the data set used for this project is also included in the project.
+The data set used for this project is also included in the project.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://mtuseeq.medium.com/route-to-job-placement-in-a-large-scale-company-afbd6ddf122a).
+Main findings of this notebook are detailed in my post [here](https://mtuseeq.medium.com/route-to-job-placement-in-a-large-scale-company-afbd6ddf122a).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  
